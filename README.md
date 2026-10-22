@@ -15,7 +15,8 @@ spaces: the screens and audio systems that people rely on in metro stations and 
 with microservices, Domain-Driven Design and RESTful APIs that keep multi-platform applications in sync.
 
 My engineering approach is grounded in layered MVC with dependency injection, Domain-Driven Design and
-event-driven integration, with automated tests and clear error handling from the first commit.
+event-driven integration, with automated tests and clear error handling from the first commit, and
+increasingly shaped by agentic AI workflows with Claude Code.
 
 I hold a B.Sc. in Computer Science from PUC Minas and started as an IT Technician at IFSULDEMINAS.
 At Sillis I turn real-time train data from BYD into arrival times on the platforms of São Paulo Metro
@@ -90,6 +91,10 @@ management for factories with Laravel on AWS, gathering requirements directly wi
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square&logo=php&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+### AI-assisted engineering
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ### Architecture & practices
 
