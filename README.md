@@ -76,8 +76,6 @@ with microservices, Domain-Driven Design and RESTful APIs that keep multi-platfo
   - [Analytics service](https://github.com/DeborahDalonso/marketplace-analytics) in Python and FastAPI
   - [Customer storefront](https://github.com/DeborahDalonso/marketplace-customer) in React and TypeScript
   - [Seller dashboard](https://github.com/DeborahDalonso/marketplace-seller) in Laravel
-- **[React Native · Expo · SQLite] [Clinic Booking](https://github.com/DeborahDalonso/clinic-booking)**:
-  a mobile app where patients book, reschedule and cancel appointments, with real availability rules.
 - **[HTML · CSS · JavaScript] [Dental clinic landing page](https://github.com/DeborahDalonso/landing-page-demo)**:
   a fast, dependency-free landing page. [Live demo](https://deborahdalonso.github.io/landing-page-demo/)
 - **[JavaScript · ECharts] [Sales dashboard](https://github.com/DeborahDalonso/sales-dashboard-demo)**:
