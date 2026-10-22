@@ -11,28 +11,28 @@
 ## About me
 
 I'm a full-stack developer with about five years of experience. Most of what I build runs in public
-spaces: the screens and audio systems that people rely on in metro stations and airports. I work
-with microservices, Domain-Driven Design and RESTful APIs that keep multi-platform applications in sync.
+spaces: the screens and audio systems that people rely on in metro stations and airports.
 
-My engineering approach is grounded in layered MVC with dependency injection, Domain-Driven Design and
-event-driven integration, with automated tests and clear error handling from the first commit, and
-increasingly shaped by agentic AI workflows with Claude Code.
+My engineering approach is grounded in object-oriented design, SOLID and clean code, with design
+patterns applied where they solve a real problem. I structure applications with MVC on web projects
+and MVVM on mobile, and automated tests are part of the workflow. It is increasingly shaped by agentic
+AI workflows with Claude Code.
 
-I hold a B.Sc. in Computer Science from PUC Minas and started as an IT Technician at IFSULDEMINAS.
-At Sillis I turn real-time train data from BYD into arrival times on the platforms of São Paulo Metro
-Line 17, build flight information screens for Guarulhos Airport and designed a gateway that brings SIP
-calls and multicast audio into Dante networks. Before that, at BMS Tecnologia, I built energy contract
-management for factories with Laravel on AWS, gathering requirements directly with the client.
+I hold a B.Sc. in Computer Science from PUC Minas and a technical diploma in IT from IFSULDEMINAS.
+At Sillis I build passenger information applications for São Paulo Metro Line 17 and Guarulhos Airport.
+I design RESTful APIs, consume data from other services and use it to drive what each application does.
+Before that, at BMS Tecnologia, I built energy contract management for factories with Laravel on AWS,
+gathering requirements directly with the client.
 
 ## What I work on
 
 - Full-stack web and mobile applications
 - Real-time passenger information systems for metro and airports
 - RESTful APIs and microservices with Node.js, Laravel and .NET
-- Event-driven integrations between multi-platform systems
+- API integrations between services, where incoming data triggers actions
 - React Native apps for phones, Android TV and Samsung displays
 - SIP, multicast and Dante audio integrations
-- SQL data modeling with MySQL and SQLite
+- Relational databases with MySQL/MariaDB and SQLite
 
 ---
 
@@ -70,6 +70,7 @@ management for factories with Laravel on AWS, gathering requirements directly wi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite" title="SQLite" />
 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![SIP / RTP](https://img.shields.io/badge/SIP%20%2F%20RTP-4B5C73?style=flat-square)
@@ -98,13 +99,15 @@ management for factories with Laravel on AWS, gathering requirements directly wi
 
 ### Architecture & practices
 
-![Microservices Architecture](https://img.shields.io/badge/Microservices-Architecture-000000?style=flat-square&labelColor=555555)
-![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven-Design-000000?style=flat-square&labelColor=555555)
-![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven-Architecture-000000?style=flat-square&labelColor=555555)
-![MVC Layers](https://img.shields.io/badge/MVC-Layers-000000?style=flat-square&labelColor=555555)
-![Dependency Injection](https://img.shields.io/badge/Dependency-Injection-000000?style=flat-square&labelColor=555555)
-![REST APIs](https://img.shields.io/badge/REST-APIs-000000?style=flat-square&labelColor=555555)
+![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented-Programming-000000?style=flat-square&labelColor=555555)
 ![SOLID Principles](https://img.shields.io/badge/SOLID-Principles-000000?style=flat-square&labelColor=555555)
+![Clean Code](https://img.shields.io/badge/Clean-Code-000000?style=flat-square&labelColor=555555)
+![Design Patterns](https://img.shields.io/badge/Design-Patterns-000000?style=flat-square&labelColor=555555)
+![MVC Architecture](https://img.shields.io/badge/MVC-Architecture-000000?style=flat-square&labelColor=555555)
+![MVVM Architecture](https://img.shields.io/badge/MVVM-Architecture-000000?style=flat-square&labelColor=555555)
+![Dependency Injection](https://img.shields.io/badge/Dependency-Injection-000000?style=flat-square&labelColor=555555)
+![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-000000?style=flat-square&labelColor=555555)
+![Microservices Architecture](https://img.shields.io/badge/Microservices-Architecture-000000?style=flat-square&labelColor=555555)
 
 ---
 
