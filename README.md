@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer · Passenger information applications · RESTful APIs
 
-[![Sillis](https://img.shields.io/badge/Sillis-Mid--level_Developer-0F766E?style=flat-square)](https://www.linkedin.com/in/deborah-dalonso-482099138)
-[![Location](https://img.shields.io/badge/Po%C3%A7os_de_Caldas-MG%2C_Brazil-10233F?style=flat-square)](#)
-[![Education](https://img.shields.io/badge/B.Sc._Computer_Science-PUC_Minas-4B5C73?style=flat-square)](#)
+[![Sillis](https://img.shields.io/badge/Sillis-Mid--level_Developer-D6336C?style=flat-square&labelColor=7A1232)](https://www.linkedin.com/in/deborah-dalonso-482099138)
+[![Location](https://img.shields.io/badge/Po%C3%A7os_de_Caldas-MG%2C_Brazil-DB5B8C?style=flat-square&labelColor=7A1232)](#)
+[![Education](https://img.shields.io/badge/B.Sc._Computer_Science-PUC_Minas-B0174F?style=flat-square&labelColor=7A1232)](#)
 
 ---
 
