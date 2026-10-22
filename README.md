@@ -1,6 +1,6 @@
 # Hi, I'm Deborah Dalonso 👋
 
-### Full-Stack Developer · Real-time passenger information systems · Microservices
+### Full-Stack Developer · Passenger information applications · RESTful APIs
 
 [![Sillis](https://img.shields.io/badge/Sillis-Mid--level_Developer-0F766E?style=flat-square)](https://www.linkedin.com/in/deborah-dalonso-482099138)
 [![Location](https://img.shields.io/badge/Po%C3%A7os_de_Caldas-MG%2C_Brazil-10233F?style=flat-square)](#)
@@ -27,9 +27,9 @@ gathering requirements directly with the client.
 ## What I work on
 
 - Full-stack web and mobile applications
-- Real-time passenger information systems for metro and airports
-- RESTful APIs and microservices with Node.js, Laravel and .NET
-- API integrations between services, where incoming data triggers actions
+- Passenger information applications for metro stations and airports
+- RESTful APIs and backend services with Node.js, Laravel and .NET
+- Integrations that consume data from other services and trigger actions
 - React Native apps for phones, Android TV and Samsung displays
 - SIP, multicast and Dante audio integrations
 - Relational databases with MySQL/MariaDB and SQLite
