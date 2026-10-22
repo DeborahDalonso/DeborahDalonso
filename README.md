@@ -120,10 +120,15 @@ gathering requirements directly with the client.
   - [Analytics service](https://github.com/DeborahDalonso/marketplace-analytics) in Python and FastAPI
   - [Customer storefront](https://github.com/DeborahDalonso/marketplace-customer) in React and TypeScript
   - [Seller dashboard](https://github.com/DeborahDalonso/marketplace-seller) in Laravel
-- **[HTML · CSS · JavaScript] [Dental clinic landing page](https://github.com/DeborahDalonso/landing-page-demo)**:
-  a fast, dependency-free landing page. [Live demo](https://deborahdalonso.github.io/landing-page-demo/)
-- **[JavaScript · ECharts] [Sales dashboard](https://github.com/DeborahDalonso/sales-dashboard-demo)**:
-  interactive charts over a real e-commerce dataset. [Live demo](https://deborahdalonso.github.io/sales-dashboard-demo/)
+## For small businesses
+
+Ready-to-adapt samples of what I deliver to everyday clients.
+
+- **[Dental clinic landing page](https://github.com/DeborahDalonso/landing-page-demo)**: a fast page that turns
+  visitors into appointment requests on WhatsApp. [Live demo](https://deborahdalonso.github.io/landing-page-demo/)
+- **[Sales dashboard](https://github.com/DeborahDalonso/sales-dashboard-demo)**: monthly revenue, best-selling
+  categories, sales by state and delivery delays, with filters by period, region and payment method.
+  [Live demo](https://deborahdalonso.github.io/sales-dashboard-demo/)
 
 ## Personal projects & studies
 
