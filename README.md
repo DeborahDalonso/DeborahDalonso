@@ -85,7 +85,7 @@ with microservices, Domain-Driven Design and RESTful APIs that keep multi-platfo
 
 - **[C#] [Music Streamer](https://github.com/DeborahDalonso/csharp-music-streamer)**
 - **[PHP] [Velocity Vibe](https://github.com/DeborahDalonso/velocity-vibe)**: final project for a web development course
-- **[Laravel] [First Laravel CRUD](https://github.com/DeborahDalonso/laravel-studies-crud)**
+- **[Laravel] [Laravel course studies](https://github.com/DeborahDalonso/laravel-studies)**: one branch per module, from routes to tests
 - **[PHP] Plain PHP with Composer, no framework**
   - [Blog](https://github.com/DeborahDalonso/php-studies-blog)
   - [CRUD with Bootstrap and jQuery](https://github.com/DeborahDalonso/php-studies-crud-composer)
