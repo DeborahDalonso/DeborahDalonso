@@ -10,14 +10,18 @@
 
 ## About me
 
-My engineering approach is grounded in microservices, Domain-Driven Design and layered MVC with
-dependency injection, with tests and clear error handling from the first commit.
+I'm a full-stack developer with about five years of experience. Most of what I build runs in public
+spaces: the screens and audio systems that people rely on in metro stations and airports. I work
+with microservices, Domain-Driven Design and RESTful APIs that keep multi-platform applications in sync.
 
-- B.Sc. in Computer Science (PUC Minas) and IT Technician (IFSULDEMINAS)
-- 3+ years at Sillis building systems used every day on São Paulo Metro Line 17 and at Guarulhos Airport
-- Line 17: real-time train data from BYD turned into arrival times on the platform displays
-- Built a gateway that turns SIP calls and multicast RTP into Dante audio, with automatic gain control
-- Before that, energy contract management for factories at BMS Tecnologia, with Laravel on AWS
+My engineering approach is grounded in layered MVC with dependency injection, Domain-Driven Design and
+event-driven integration, with automated tests and clear error handling from the first commit.
+
+I hold a B.Sc. in Computer Science from PUC Minas and started as an IT Technician at IFSULDEMINAS.
+At Sillis I turn real-time train data from BYD into arrival times on the platforms of São Paulo Metro
+Line 17, build flight information screens for Guarulhos Airport and designed a gateway that brings SIP
+calls and multicast audio into Dante networks. Before that, at BMS Tecnologia, I built energy contract
+management for factories with Laravel on AWS, gathering requirements directly with the client.
 
 ## What I work on
 
