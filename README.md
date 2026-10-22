@@ -6,33 +6,19 @@
 [![Location](https://img.shields.io/badge/Po%C3%A7os_de_Caldas-MG%2C_Brazil-DB5B8C?style=flat-square&labelColor=7A1232)](#)
 [![Education](https://img.shields.io/badge/B.Sc._Computer_Science-PUC_Minas-B0174F?style=flat-square&labelColor=7A1232)](#)
 
----
-
-## About me
-
-I'm a full-stack developer with about five years of experience. Most of what I build runs in public
+I'm a **full-stack developer** with about five years of experience. Most of what I build runs in public
 spaces: the screens and audio systems that people rely on in metro stations and airports.
 
-My engineering approach is grounded in object-oriented design, SOLID and clean code, with design
+My engineering approach is grounded in **object-oriented design, SOLID and clean code**, with design
 patterns applied where they solve a real problem. I structure applications with MVC on web projects
 and MVVM on mobile, and automated tests are part of the workflow. It is increasingly shaped by agentic
-AI workflows with Claude Code.
+AI workflows with **Claude Code**.
 
-I hold a B.Sc. in Computer Science from PUC Minas and a technical diploma in IT from IFSULDEMINAS.
-At Sillis I build passenger information applications for São Paulo Metro Line 17 and Guarulhos Airport.
+I hold a B.Sc. in Computer Science from **PUC Minas** and a technical diploma in IT from **IFSULDEMINAS**.
+At **Sillis** I build passenger information applications for **São Paulo Metro Line 17** and **Guarulhos Airport**.
 I design RESTful APIs, consume data from other services and use it to drive what each application does.
-Before that, at BMS Tecnologia, I built energy contract management for factories with Laravel on AWS,
+Before that, at **BMS Tecnologia**, I built energy contract management for factories with Laravel on AWS,
 gathering requirements directly with the client.
-
-## What I work on
-
-- Full-stack web and mobile applications
-- Passenger information applications for metro stations and airports
-- RESTful APIs and backend services with Node.js, Laravel and .NET
-- Integrations that consume data from other services and trigger actions
-- React Native apps for phones, Android TV and Samsung displays
-- SIP, multicast and Dante audio integrations
-- Relational databases with MySQL/MariaDB and SQLite
 
 ---
 
@@ -108,6 +94,18 @@ gathering requirements directly with the client.
 ![Dependency Injection](https://img.shields.io/badge/Dependency-Injection-000000?style=flat-square&labelColor=555555)
 ![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-000000?style=flat-square&labelColor=555555)
 ![Microservices Architecture](https://img.shields.io/badge/Microservices-Architecture-000000?style=flat-square&labelColor=555555)
+
+---
+
+## What I work on
+
+- Full-stack web and mobile applications
+- Passenger information applications for metro stations and airports
+- RESTful APIs and backend services with Node.js, Laravel and .NET
+- Integrations that consume data from other services and trigger actions
+- React Native apps for phones, Android TV and Samsung displays
+- SIP, multicast and Dante audio integrations
+- Relational databases with MySQL/MariaDB and SQLite
 
 ---
 
