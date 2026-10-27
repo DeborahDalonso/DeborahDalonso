@@ -124,6 +124,12 @@ Ready-to-adapt samples of what I deliver to everyday clients.
 
 - **[Dental clinic landing page](https://github.com/DeborahDalonso/landing-page-demo)**: a fast page that turns
   visitors into appointment requests on WhatsApp. [Live demo](https://deborahdalonso.github.io/landing-page-demo/)
+- **[Dental clinic booking app](https://github.com/DeborahDalonso/clinic-booking-demo)**: a React Native app where
+  patients book, reschedule and cancel appointments, and the clinic follows the daily schedule.
+  [Try it in the browser](https://deborahdalonso.github.io/clinic-booking-demo/)
+- **[Bakery landing page](https://github.com/DeborahDalonso/bakery-landing-demo)**: a made-to-order bakery page
+  where customers build their order and send it, with prices and total, on WhatsApp.
+  [Live demo](https://deborahdalonso.github.io/bakery-landing-demo/)
 - **[Sales dashboard](https://github.com/DeborahDalonso/sales-dashboard-demo)**: monthly revenue, best-selling
   categories, sales by state and delivery delays, with filters by period, region and payment method.
   [Live demo](https://deborahdalonso.github.io/sales-dashboard-demo/)
